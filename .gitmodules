@@ -1,0 +1,9 @@
+[submodule "dart_league"]
+	path = dart_league
+	url = https://github.com/Vathh/Suwalska-Liga-Darta-Backend
+[submodule "front_sld"]
+	path = front_sld
+	url = https://github.com/Vathh/Suwalska-Liga-Darta-Web
+[submodule "sld_mobile"]
+	path = sld_mobile
+	url = https://github.com/Vathh/Suwalska-Liga-Darta-MobileApp
