@@ -64,6 +64,15 @@ To run this project locally, you'll need to have the following installed on your
 - Docker will build and start all necessary services, including the backend, web, and mobile applications, as well as the database.
   
 ## Usage
+
+### Default login credentials:
+- Admin:
+  - Username: admin
+  - Password: admin
+- User:
+  - Username: ciasto
+  - Password: ciasto
+
 ### Example Workflow
 - Create a Season: The admin can use the web application to create a new season, including multiple tournaments.
 - Register Players: The admin adds players to the database via the web application.
